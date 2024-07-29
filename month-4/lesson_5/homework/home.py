@@ -11,11 +11,9 @@ Birinchi vazifa:
 2. "To-Do List" dasturini yaratish uchun yangi loyiha repositorysini yarating. Quyidagi vazifalarni bajaring:
 
 1. Git repositorysini initsializatsiya qiling.
-2. Loyihani tasvirlovchi README faylini yarating.
-3. README faylini sahnaga qo'shib, tegishli xabar bilan commit qiling.
-4. development nomli yangi branch yarating.
-5. development branchiga o'ting.
-6. todo.py nomli fayl qo'shing va vazifalarni qo'shish uchun oddiy funksiya yozing.
-7. todo.py faylini sahnaga qo'shib, commit qiling.
-8. development branchini main branchiga merge qiling.
+2. development nomli yangi branch yarating.
+3. development branchiga o'ting.
+4. todo.py nomli fayl qo'shing va vazifalarni qo'shish uchun oddiy funksiya yozing.
+5. todo.py faylini sahnaga qo'shib, commit qiling.
+6. development branchini main branchiga merge qiling.
 """

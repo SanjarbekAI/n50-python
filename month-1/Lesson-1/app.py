@@ -37,3 +37,5 @@ age = 99
 text = f"Mening ismim {name} va men {age} yoshdaman."
 print(text)
 
+print("Hello")
+

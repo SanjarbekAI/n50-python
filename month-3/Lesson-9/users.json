@@ -1,0 +1,16 @@
+[
+    {
+        "full_name": "Sanjarbek Tursunov",
+        "student_id": "1212",
+        "student_password": "cbfad02f9ed2a8d1e08d8f74f5303e9eb93637d47f82ab6f1c15871cf8dd0481",
+        "is_login": false,
+        "coin": -110.0
+    },
+    {
+        "full_name": "1",
+        "student_id": "1",
+        "student_password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "is_login": false,
+        "coin": 100
+    }
+]

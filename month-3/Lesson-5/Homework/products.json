@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Clothing",
+        "name": "shoes",
+        "price": 150,
+        "color": "black"
+    },
+    {
+        "type": "Clothing",
+        "name": "shoes",
+        "price": 150,
+        "color": "black"
+    }
+]

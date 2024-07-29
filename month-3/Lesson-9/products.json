@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Qalam",
+        "price": 1,
+        "quantity": 110
+    },
+    {
+        "name": "Noutbook",
+        "price": 10.0,
+        "quantity": 5
+    },
+    {
+        "name": "Mishka",
+        "price": 5.0,
+        "quantity": -10
+    }
+]

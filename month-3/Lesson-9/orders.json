@@ -1,0 +1,23 @@
+[
+    {
+        "student_id": "1212",
+        "product_name": "Qalam",
+        "quantity": 10,
+        "total_price": 10,
+        "date": "2024-07-10"
+    },
+    {
+        "student_id": "1212",
+        "product_name": "Mishka",
+        "quantity": 18,
+        "total_price": 90.0,
+        "date": "2024-07-10"
+    },
+    {
+        "student_id": "1212",
+        "product_name": "Mishka",
+        "quantity": 22,
+        "total_price": 110.0,
+        "date": "2024-07-10"
+    }
+]

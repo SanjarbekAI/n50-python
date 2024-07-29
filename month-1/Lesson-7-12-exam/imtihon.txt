@@ -1,0 +1,28 @@
+1-2-masalalar flowgorithmda ishlanishi kerak, 3-4-5 masalarni python da ishlash kerak.
+
+Baholash mezoni:
+
+1-masalaga 15ball
+2-masalaga 15ball
+3-masalaga 15ball
+4-masalaga 25 ball
+5-masalaga 30 ball
+
+1. Foydalanuvchidan ismi, yoshi va tug'ilgan yilini kiritishini so'rang va quyidagi ko'rinishda ekranga chiqaring.
+    Mening ismim Sanjar, men 24 yoshdaman va men 2000-yil tug'ilganman.
+
+2. Odamdan 3 ta son so'rang va eng kattasini quyidagi ko'rinishda ekranga chiqaring.
+    num1 = 12
+    num2 = 23
+    num3 = 12
+    Katta son 23
+
+3. Foydalanuchidan bitta son so'rang va 1 dan usha songacha bo'lgan sonlar orasidan 3 va 6 ga qoldiqsiz bo'linadigan
+   sonlar nechtaligini toping.
+
+4. Odamdan 3 xonali son so'rang va raqamlari ko'paytmasini toping.
+
+5. Foydalanuvchi sizga vaqtni sekund birligida kiritadi, siz unga usha vaqtni necha
+kun, soat, minut, daqiqa, sekund borligini ko'rsatasiz.
+
+

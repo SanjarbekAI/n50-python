@@ -1,0 +1,8 @@
+[
+    {
+        "shape": "circle(doira)",
+        "radius": 2,
+        "calculation": "perimetr",
+        "value": 12.56
+    }
+]
